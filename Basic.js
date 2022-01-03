@@ -2,8 +2,8 @@ const myName = "Michel";
 const myStr = "My name is" + myName + "and I am well!";
 const myArray = ["dude", 3];
 
-function myFirstFunction (){
-    console.log("bruh");
+function timesFive(num){
+    return num * 5;
 }
 
-myFirstFunction();
+const answer = timesFive(0);
