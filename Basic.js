@@ -9,3 +9,4 @@ function timesFive(num){
 const answer = timesFive(0);
 
 //startin' linkedinlearning thing
+//linkdin part 3 
